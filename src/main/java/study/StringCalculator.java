@@ -60,7 +60,6 @@ public class StringCalculator {
 }
 /**
  *  정규식을 사용하여 연산자 앞뒤로 문자열을 분리합니다.
- *
  */
 
 /**
